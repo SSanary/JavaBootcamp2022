@@ -1,5 +1,6 @@
-import java.util.Scanner;
+package Java.Odev1;
 
+import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         int mat = 0, fizik = 0, kimya = 0, turkce = 0, tarih = 0, muzik = 0;
