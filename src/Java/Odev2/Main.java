@@ -16,7 +16,7 @@ public class Main {
             kdvliTutar = tutar + (tutar * 0.18);
         else
             kdvliTutar = tutar + (tutar * 0.08);
-        
+
         System.out.println("Yeni Tutar: " + kdvliTutar);
     }
 }
