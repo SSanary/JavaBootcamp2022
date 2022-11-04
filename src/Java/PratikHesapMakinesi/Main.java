@@ -23,6 +23,9 @@ public class Main {
                 System.out.println(sayi1 + " * " + sayi2 + " = "+" "+(sayi1 * sayi2)); break;
             case 4:
                 System.out.println(sayi1 + " / " + sayi2 + " = "+" "+(sayi1 / sayi2)); break;
+            default:
+                System.out.println("Geçersiz Girdi!"); break;
         }
+        System.out.println("Program Sonlandı!");
     }
 }
