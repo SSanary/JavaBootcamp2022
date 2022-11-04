@@ -1,5 +1,4 @@
 package Java.PratikHesapMakinesi;
-
 import java.util.Scanner;
 
 public class Main {
